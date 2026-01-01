@@ -7,6 +7,7 @@
 Deep diving into <b> NLP, Machine Learning, Large Language Models (LLMs)</b> and <b>Computer Vision</b>.
 </p>
 ---
+
 <h3>🚀 My Code Practice</h3>
 <a href="https://leetcode.com/PTSown0222">
   <img src="https://leetcard.jacoblin.cool/PTSown0222?theme=dark&font=Sora&ext=heatmap" alt="LeetCode Stats" />
@@ -24,12 +25,6 @@ Deep diving into <b> NLP, Machine Learning, Large Language Models (LLMs)</b> and
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=black" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-yellow?style=flat-square" alt="HuggingFace"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-</p>
-  
-  <br/>
-  
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
 </p>
