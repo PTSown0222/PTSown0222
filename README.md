@@ -7,6 +7,11 @@
 Deep diving into <b> NLP, Machine Learning, Large Language Models (LLMs)</b> and <b>Computer Vision</b>.
 </p>
 ---
+<h3>🚀 My Code Practice</h3>
+<a href="https://leetcode.com/PTSown0222">
+  <img src="https://leetcard.jacoblin.cool/PTSown0222?theme=dark&font=Sora&ext=heatmap" alt="LeetCode Stats" />
+</a>
+
 <h3>🛠 Languages & Frameworks</h3>
 <p>
   <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python"/>
