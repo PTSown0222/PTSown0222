@@ -27,7 +27,6 @@ Deep diving into <b> NLP, Machine Learning, Large Language Models (LLMs)</b> and
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
 </p>
-
 <br/><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PTSown0222&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
