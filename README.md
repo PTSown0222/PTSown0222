@@ -25,6 +25,6 @@ Currently learning <b>Natural Language Processing (NLP)</b>.
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=PTSown0222&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=PTSown0222&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
 </div>
