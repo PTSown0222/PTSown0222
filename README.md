@@ -1,11 +1,11 @@
 <div align="center">
 
-### Hi there, I'm Son 👋
+### Hi there, I'm Sơn 👋
 
 <p>
 <em>Aspiring AI Engineer building intelligent systems.</em>
 <br/>
-Deep diving into <b>NLP, Large Language Models (LLMs)</b> and <b>Computer Vision</b>.
+Deep diving into <b>NLP, Machine Learning, Large Language Models (LLMs)</b> and <b>Computer Vision</b>.
 </p>
 
 ---
