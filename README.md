@@ -8,20 +8,6 @@
 
 ---
 
-### 🚀 Highlight Projects
-
-<p align="center">
-  <a href="https://github.com/ptsown0222/NutriAgent-AI">
-    <img src="./rag-card.svg" width="45%" alt="NutriAgent-AI" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/ptsown0222/SemEval-2026-Task-2">
-    <img src="./semeval-card.svg" width="45%" alt="SemEval-2026" />
-  </a>
-</p>
-
----
-
 ### 🏆 Coding Achievements
 <p align="center">
   <a href="https://leetcode.com/PTSown0222">
