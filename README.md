@@ -12,11 +12,11 @@
 
 <p align="center">
   <a href="https://github.com/ptsown0222/NutriAgent-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ptsown0222&repo=NutriAgent-AI&theme=tokyonight&show_icons=true" alt="NutriAgent-AI" />
+    <img src="https://github-readme-stats-git-masterrstak24.vercel.app/api/pin/?username=ptsown0222&repo=NutriAgent-AI&theme=tokyonight&show_icons=true" alt="NutriAgent-AI" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/ptsown0222/SemEval-2026-Task-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ptsown0222&repo=SemEval-2026-Task-2&theme=tokyonight&show_icons=true" alt="SemEval-2026" />
+    <img src="https://github-readme-stats-git-masterrstak24.vercel.app/api/pin/?username=ptsown0222&repo=SemEval-2026-Task-2&theme=tokyonight&show_icons=true" alt="SemEval-2026" />
   </a>
 </p>
 
