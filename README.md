@@ -2,9 +2,8 @@
 
 ### Hi there, I'm Sơn 👋
 <p>
-<em>Aspiring AI Engineer building intelligent systems.</em>
-<br/>
-Deep diving into <b> NLP, Machine Learning, Large Language Models (LLMs)</b> and <b>Computer Vision</b>.
+  <em>Aspiring AI Engineer building intelligent systems.</em><br/>
+  Deep diving into <b>NLP, Machine Learning, Large Language Models (LLMs)</b> and <b>Computer Vision</b>.
 </p>
 
 ---
@@ -22,23 +21,35 @@ Deep diving into <b> NLP, Machine Learning, Large Language Models (LLMs)</b> and
 ---
 
 ### 🏆 Coding Achievements
-<a href="https://leetcode.com/PTSown0222">
-  <img src="https://leetcard.jacoblin.cool/PTSown0222?theme=dark&font=Sora&ext=heatmap" alt="LeetCode Stats" />
-</a>
+<p align="center">
+  <a href="https://leetcode.com/PTSown0222">
+    <img src="https://leetcard.jacoblin.cool/PTSown0222?theme=dark&font=Sora&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</p>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PTSown0222&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PTSown0222&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
 ### 🛠 Languages & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/LlamaIndex-121212?style=for-the-badge&logo=llamaindex&logoColor=white" alt="LlamaIndex"/>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <br/>
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=black" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <br/>
+  <img src="https://img.shields.io/badge/LlamaIndex-121212?style=flat-square&logo=llamaindex&logoColor=white" alt="LlamaIndex"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
 </div>
