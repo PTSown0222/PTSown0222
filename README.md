@@ -10,15 +10,20 @@
 
 ### 🚀 Highlight Projects
 
-<p align="center">
-  <a href="https://github.com/ptsown0222/NutriAgent-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ptsown0222&repo=NutriAgent-AI&theme=tokyonight&show_icons=true" width="45%" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/ptsown0222/SemEval-2026-Task-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ptsown0222&repo=SemEval-2026-Task-2&theme=tokyonight&show_icons=true" width="45%" />
-  </a>
-</p>
+<table align="center" border="0">
+  <tr>
+    <td>
+      <a href="https://github.com/ptsown0222/NutriAgent-AI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ptsown0222&repo=NutriAgent-AI&theme=tokyonight&show_icons=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/ptsown0222/SemEval-2026-Task-2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ptsown0222&repo=SemEval-2026-Task-2&theme=tokyonight&show_icons=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
