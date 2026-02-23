@@ -8,16 +8,15 @@
 
 ---
 
-### 🏆 Coding Achievements
-<p align="center">
-  <a href="https://leetcode.com/PTSown0222">
-    <img src="https://leetcard.jacoblin.cool/PTSown0222?theme=dark&font=Sora&ext=heatmap" alt="LeetCode Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PTSown0222&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+### 🏆 My Repositories
+<a href="https://github.com/PTSown0222/SemEval-2026-Task-2">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=QuickDraw&theme=radical" />
+</a>    
+<a href="https://github.com/PTSown0222/NutriAgent-AI">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=ASCII-generator&theme=merko" />
+</a>
 
 ---
 
