@@ -7,15 +7,15 @@
 </p>
 
 ---
-![Son's github stats](https://github-readme-stats.vercel.app/api?username=PTSown0222&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
-
 ### 🏆 My Repositories
-<a href="https://github.com/PTSown0222/NutriAgent-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PTSown0222&repo=NutriAgent-AI&theme=radical" />
-</a>
-<a href="https://github.com/PTSown0222/SemEval-2026-Task-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PTSown0222&repo=SemEval-2026-Task-2&theme=merko" />
-</a>
+<div align="center">
+  <a href="https://github.com/PTSown0222/NutriAgent-AI">
+    <img src="https://github-readme-repo-card.vercel.app/api/pin/?username=PTSown0222&repo=NutriAgent-AI&theme=radical" />
+  </a>
+  <a href="https://github.com/PTSown0222/SemEval-2026-Task-2">
+    <img src="https://github-readme-repo-card.vercel.app/api/pin/?username=PTSown0222&repo=SemEval-2026-Task-2&theme=merko" />
+  </a>
+</div>
 ---
 
 ### 🛠 Languages & Frameworks
