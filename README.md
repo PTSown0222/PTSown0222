@@ -7,6 +7,7 @@
 </p>
 
 ---
+![Son's github stats](https://github-readme-stats.vercel.app/api?username=PTSown0222&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 ### 🏆 My Repositories
 <div align="center">
