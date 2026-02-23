@@ -10,12 +10,10 @@
 
 ### 🏆 My Repositories
 <a href="https://github.com/PTSown0222/SemEval-2026-Task-2">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=QuickDraw&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PTSown0222&repo=SemEval-2026-Task-2&theme=radical" />
 </a>    
 <a href="https://github.com/PTSown0222/NutriAgent-AI">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=ASCII-generator&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PTSown0222&repo=NutriAgent-AI&theme=merko" />
 </a>
 
 ---
