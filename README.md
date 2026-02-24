@@ -10,6 +10,8 @@
 ### 🏆 My Repositories
 [![NutriAgent-AI](https://img.shields.io/badge/Project-NutriAgent--AI-ff69b4?style=for-the-badge&logo=github)](https://github.com/PTSown0222/NutriAgent-AI)
 [![SemEval-2026](https://img.shields.io/badge/Project-SemEval--2026-blueviolet?style=for-the-badge&logo=github)](https://github.com/PTSown0222/SemEval-2026-Task-2)
+[![Algorithms-Artificial-Intelligence](https://img.shields.io/badge/Project-SemEval--2026-blueviolet?style=for-the-badge&logo=github)](https://github.com/PTSown0222/TensorTonic-Solutions)
+
 
 ---
 
