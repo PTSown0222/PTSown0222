@@ -9,7 +9,7 @@
 ---
 ### 🏆 My Outstanding Repositories
 [![NutriAgent-AI](https://img.shields.io/badge/Project-NutriAgent--AI-green?style=flat&logo=github)](https://github.com/PTSown0222/NutriAgent-AI)
-[![SemEval-2026](https://img.shields.io/badge/Project-SemEval--2026-orange?style=flat&logo=github)](https://github.com/PTSown0222/SemEval-2026-Task-2)
+[![SemEval-2026](https://img.shields.io/badge/Academic--Paper-SemEval--2026-orange?style=flat&logo=github)](https://github.com/PTSown0222/SemEval-2026-Task-2)
 [![Artificial-Intelligence-Algorithms](https://img.shields.io/badge/Code-Artificial--Intelligence--Algorithms-blue?style=flat&logo=github)](https://github.com/PTSown0222/TensorTonic-Solutions)
 
 ---
