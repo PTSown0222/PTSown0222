@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi there, I'm Sơn 👋
+### Hi there, I'm Son The Phuong 👋
 <p>
   <em>Aspiring AI Engineer building intelligent systems.</em><br/>
   Deep diving into <b>NLP, Machine Learning, Large Language Models (LLMs)</b> and <b>Computer Vision</b>.
