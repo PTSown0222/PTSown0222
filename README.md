@@ -8,11 +8,13 @@
 
 ---
 ### 🏆 My Outstanding Repositories
-[![NutriAgent-AI](https://img.shields.io/badge/Agent--Project-NutriAgent--AI-green?style=flat&logo=github)](https://github.com/PTSown0222/NutriAgent-AI)
+[![NutriAgent-AI](https://img.shields.io/badge/RAG--Project-NutriAgent--AI-green?style=flat&logo=github)](https://github.com/PTSown0222/NutriAgent-AI)
 [![SemEval-2026](https://img.shields.io/badge/Academic--Paper-SemEval--2026-orange?style=flat&logo=github)](https://github.com/PTSown0222/SemEval-2026-Task-2)
-[![Artificial-Intelligence-Algorithms](https://img.shields.io/badge/Code-Artificial--Intelligence--Algorithms-blue?style=flat&logo=github)](https://github.com/PTSown0222/TensorTonic-Solutions)
+[![MiniCanvas](https://img.shields.io/badge/ComputerVision--Project-minicanvas-red?style=flat&logo=github)](https://github.com/PTSown0222/mini-canvas)
 <br/>
 [![Leetcode-Algorithms](https://img.shields.io/badge/Code-Leetcode--Algorithms-pink?style=flat&logo=github)](https://github.com/PTSown0222/Data-Structures-and-Algorithms)
+[![SLMs](https://img.shields.io/badge/SLMs--Project-DoraPocket-blue?style=flat&logo=github)](https://github.com/PTSown0222/DoraOmniPocket)
+[![DeepLearnings](https://img.shields.io/badge/DeepLearning--Project-DLSystems-cyan?style=flat&logo=github)](https://github.com/PTSown0222/Deep-learning-System)
 
 ---
 
