@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/LlamaIndex-121212?style=flat-square&logo=llamaindex&logoColor=white" alt="LlamaIndex"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi" alt="FastAPI"/>
 </p>
 
 </div>
