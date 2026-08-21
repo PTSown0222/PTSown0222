@@ -1,7 +1,9 @@
 <div align="center">
+  
 <!-- <img width="768" height="256" alt="image" src="https://github.com/user-attachments/assets/099e7619-835a-4ad0-ba2f-99cc52206f62" /> -->
 ### Hi there, I'm Son The Phuong 👋
-<p>
+
+  <p>
   <em>Aspiring AI Engineer building intelligent systems.</em><br/>
   Deep diving into <b>NLP, Machine Learning, Large Language Models (LLMs)</b>, <b>Computer Vision, and coffee ☕ </b>.
 </p>
